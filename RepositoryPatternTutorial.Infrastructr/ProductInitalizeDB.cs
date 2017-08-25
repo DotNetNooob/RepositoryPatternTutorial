@@ -1,5 +1,4 @@
 ﻿using RepositoryPatternTutorial.Core;
-using RepositoryPatternTutorial.Infrastructr;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

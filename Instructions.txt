@@ -21,4 +21,14 @@
 - Set App.config Connection String
 - Make a Seed Class 
 - Inherit it from DropCreateDatabaseIfModelChanges Class
+- Make Repository class that inherits from Core Interfaces
+- Enable mgrations and Update DB
+
+
+=> Test Project
+
+- Develope Tests
+
+
+
 
