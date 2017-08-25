@@ -1,0 +1,24 @@
+
+=> Make 4 Projects
+
+- Core : Models and Interfaces
+- Infrastructure : Repository and Ef Interaction Code
+- Tests Project
+- Web Project
+
+
+
+=> CORE Project 
+
+- Make all the Classes
+- Make a Folder named interfaces
+- Create Interfaces for Models in that folder
+
+=> Infrastructure Project
+
+- Install Entity Framework
+- Create Context Class
+- Set App.config Connection String
+- Make a Seed Class 
+- Inherit it from DropCreateDatabaseIfModelChanges Class
+
