@@ -28,6 +28,18 @@
 => Test Project
 
 - Develope Tests
+- Check results with one generated Model
+
+
+=> MVC Project
+
+- Create Controllers and Views as usual
+- Use Models and Repositories from Core and Infrastructure Projects
+- Controllers have to instantiate Context Class in action methods that is not good for independent modules
+- Scaffolding will have DBContext , But we want repository classes and their methods , use those 
+- Now we have Repos Being used but we dont want their object we want interfaces
+- Install Unity.mvc Dependency injection Nuget Package
+- 
 
 
 
